@@ -125,7 +125,7 @@ nav:
   - Writing:
     - "writing/index.md"
   - Reading:
-    - The Manager's Path: "hiring.md"
+    - The Manager's Path: "reading/the-manager-path.md"
   
 plugins:
   - social
