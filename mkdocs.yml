@@ -4,7 +4,7 @@ site_description: >-
   Notes about my hobbies and other things I find interesting.
 repo_name: blog
 repo_url: https://github.com/peng-mi/peng-mi.github.io
-site_url: peng-mi.github.io
+site_url: htttps://peng-mi.github.io
 edit_uri: edit/main/docs/
 copyright: Copyright &copy; 2024 Peng Mi
 theme:
@@ -86,9 +86,6 @@ markdown_extensions:
       smart_enable: all
   - pymdownx.caret
   - pymdownx.details
-  - pymdownx.emoji:
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
   - pymdownx.highlight:
       anchor_linenums: true
       line_spans: __span
